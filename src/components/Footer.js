@@ -40,7 +40,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/_aakash_b962002_/?igshid=16ng2qluzdl1r"
+                href="https://www.instagram.com/_aakash_b962002/?igshid=16ng2qluzdl1r"
                 style={{ color: "white" }}
               >
                 <AiFillInstagram />
