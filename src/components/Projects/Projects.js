@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import Particle from "../Particle";
 
 
 import ipAddress from "../../Assets/Projects/ip-address-tracker.png";
@@ -11,7 +10,6 @@ import CountdownTimer from "../../Assets/Projects/Countdown-timer.jpg";
 function Projects() {
   return (
     <Container fluid className="project-section">
-      <Particle />
       <Container>
         <h1 className="project-heading">
           My Recent <strong className="purple">Works </strong>
